@@ -1,1 +1,1 @@
-[Patika.dev](https://app.patika.dev/sibgat)'in C# Döngüler'den Foor Loop, Break ve Continue dersinde işlediğimiz kodları çermektedir.
+[Patika.dev](https://app.patika.dev/sibgat)'in C# Döngüler'den Foor Loop, Break ve Continue dersinde işlediğimiz kodları içermektedir.
